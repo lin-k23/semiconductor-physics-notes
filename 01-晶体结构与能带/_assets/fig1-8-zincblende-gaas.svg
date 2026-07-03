@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="420" viewBox="0 0 880 420" role="img" aria-label="zincblende GaAs lattice">
+  <title>Zincblende lattice of GaAs</title>
+  <rect width="100%" height="100%" fill="white"/>
+  <style>.edge{stroke:#222;stroke-width:2;fill:none}.dash{stroke:#777;stroke-width:1.4;stroke-dasharray:5 5}.ga{fill:#c8ecfb;stroke:#111;stroke-width:2}.as{fill:white;stroke:#111;stroke-width:2}.bond{stroke:#13a8df;stroke-width:5;stroke-linecap:round}.l{font:19px Arial,sans-serif;fill:#111}.s{font:14px Arial,sans-serif;fill:#333}</style>
+  <text class="l" x="70" y="40">Zincblende (sphalerite): same topology as diamond, two atom species</text>
+  <g transform="translate(70,90)">
+    <path class="edge" d="M35 220 L250 220 L320 150 L105 150 Z M35 60 L250 60 L320 -10 L105 -10 Z M35 60 L35 220 M250 60 L250 220 M320 -10 L320 150 M105 -10 L105 150"/>
+    <path class="dash" d="M35 60 L105 -10 M35 220 L105 150 M250 220 L320 150"/>
+    <circle class="as" cx="35" cy="60" r="11"/><circle class="as" cx="250" cy="60" r="11"/><circle class="as" cx="320" cy="-10" r="11"/><circle class="as" cx="105" cy="-10" r="11"/><circle class="as" cx="35" cy="220" r="11"/><circle class="as" cx="250" cy="220" r="11"/><circle class="as" cx="320" cy="150" r="11"/><circle class="as" cx="105" cy="150" r="11"/>
+    <circle class="ga" cx="165" cy="105" r="16"/><text class="s" x="156" y="110">Ga</text>
+    <line class="bond" x1="165" y1="105" x2="105" y2="150"/><line class="bond" x1="165" y1="105" x2="250" y2="60"/><line class="bond" x1="165" y1="105" x2="250" y2="220"/><line class="bond" x1="165" y1="105" x2="105" y2="-10"/>
+    <text class="s" x="45" y="275">Example: GaAs, InP, GaP and other III-V compound semiconductors</text>
+  </g>
+  <g transform="translate(560,100)"><text class="l" x="0" y="0">Nearest neighbors</text><circle class="ga" cx="110" cy="130" r="16"/><text class="s" x="101" y="135">Ga</text><circle class="as" cx="45" cy="60" r="13"/><text class="s" x="37" y="65">As</text><circle class="as" cx="195" cy="75" r="13"/><text class="s" x="187" y="80">As</text><circle class="as" cx="45" cy="220" r="13"/><text class="s" x="37" y="225">As</text><circle class="as" cx="205" cy="220" r="13"/><text class="s" x="197" y="225">As</text><line class="bond" x1="110" y1="130" x2="45" y2="60"/><line class="bond" x1="110" y1="130" x2="195" y2="75"/><line class="bond" x1="110" y1="130" x2="45" y2="220"/><line class="bond" x1="110" y1="130" x2="205" y2="220"/></g>
+</svg>
