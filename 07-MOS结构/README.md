@@ -1,12 +1,16 @@
 # 07-MOS结构
 
-标签：#章节入口 #MOS结构 #金属半导体结 #异质结
+标签：#章节入口 #MOS结构 #金属半导体结 #异质结 #MOS电容 #MOSFET
 
 ## 本章目标
 
-按 Chapter 9 → Chapter 10 → Chapter 11 的顺序整理 MOS 相关器件物理基础。当前已整理 Chapter 9：金属-半导体结（metal–semiconductor junction）、肖特基势垒二极管（Schottky barrier diode）、欧姆接触（ohmic contact）和半导体异质结（semiconductor heterojunctions）。后续继续补 Chapter 10 MOS 电容与 MOSFET 基础、Chapter 11 MOSFET 非理想效应和缩放。
+按 Chapter 9 → Chapter 10 → Chapter 11 的顺序整理 MOS 相关器件物理基础。当前已整理 Chapter 9：金属-半导体结（metal–semiconductor junction）、肖特基势垒二极管（Schottky barrier diode）、欧姆接触（ohmic contact）和半导体异质结（semiconductor heterojunctions）；Chapter 10：MOS 电容、阈值电压、MOSFET 理想 I-V 和 CMOS；Chapter 11：MOSFET 非理想效应、缩放、小尺寸效应和可靠性。
 
-> 说明：Chapter 9 本身不是 MOS 电容章节，但它提供金属接触、界面势垒、欧姆接触和异质结势阱等基础，因此本轮按用户指定统一放入 `07-MOS结构/`。
+> 说明：Chapter 9 本身不是 MOS 电容章节，但它提供金属接触、界面势垒、欧姆接触和异质结势阱等基础，因此按当前整理方案统一放入 `07-MOS结构/`。
+
+## 整理规则
+
+- [[图片占位规则]]：后续 notes-only 优先；必要示意图保留 `Fig-x-y` 占位。
 
 ## Chapter 9：Metal–Semiconductor and Semiconductor Heterojunctions
 
@@ -23,15 +27,33 @@
 
 ## Chapter 10：Fundamentals of the MOSFET
 
-待整理。预计覆盖 MOS 电容、积累 / 耗尽 / 反型、阈值电压、MOSFET 基本结构和理想 I-V。
+主入口：[[MOS电容与MOSFET基础]]
+
+- [[MOS电容与MOSFET基础]]
+- [[MOS电容基础图像]]
+- [[表面势耗尽层与反型]]
+- [[功函数差平带电压与阈值电压]]
+- [[MOS电容CV特性]]
+- [[MOSFET结构与工作区]]
+- [[MOSFET理想IV方程]]
+- [[MOSFET跨导小信号与频率限制]]
+- [[CMOS技术基础]]
+- [[第十章公式与考点速查]]
 
 ## Chapter 11：MOSFET Additional Concepts
 
-待整理。预计覆盖亚阈值导电、沟道长度调制、迁移率退化、速度饱和、缩放、小尺寸效应、击穿和离子注入调阈值。
+主入口：[[MOSFET非理想效应总览]]
 
-## 图片原则
-
-本目录截图只使用 PDF 原图裁剪，不做高对比增强、不重绘、不重新排版、不更改图像风格。截图文件统一放在 `_assets/pdf-screenshots/`。
+- [[MOSFET非理想效应总览]]
+- [[亚阈值导电]]
+- [[沟道长度调制与输出电阻]]
+- [[迁移率退化速度饱和与弹道输运]]
+- [[MOSFET缩放]]
+- [[短沟道与窄沟道阈值修正]]
+- [[MOSFET击穿与穿通]]
+- [[离子注入调阈值]]
+- [[辐射与热电子效应]]
+- [[第十一章公式与考点速查]]
 
 ## 前置知识
 
