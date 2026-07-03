@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="320" viewBox="0 0 960 320" role="img" aria-label="amorphous polycrystalline single crystal">
+  <title>Types of solids: amorphous, polycrystalline, single crystal</title>
+  <rect width="100%" height="100%" fill="white"/>
+  <style>.b{fill:none;stroke:#13a8df;stroke-width:3}.d{fill:#222}.l{font:18px Arial,sans-serif;fill:#111}.s{font:14px Arial,sans-serif;fill:#444}.gb{fill:#eef9ff;stroke:#333;stroke-width:2}</style>
+  <path class="b" d="M60,70 C95,35 175,45 205,80 C245,125 210,225 140,238 C80,250 38,205 48,145 C51,115 40,95 60,70 Z"/>
+  <g class="d"><circle cx="92" cy="115" r="4"/><circle cx="130" cy="87" r="4"/><circle cx="170" cy="122" r="4"/><circle cx="115" cy="162" r="4"/><circle cx="175" cy="188" r="4"/><circle cx="78" cy="205" r="4"/><circle cx="150" cy="220" r="4"/><circle cx="205" cy="158" r="4"/><circle cx="145" cy="142" r="4"/><circle cx="105" cy="195" r="4"/></g>
+  <text class="l" x="80" y="285">(a) Amorphous</text><text class="s" x="55" y="305">short-range order only</text>
+  <path class="b" d="M365,50 C430,18 555,38 580,95 C612,165 560,240 485,250 C410,260 342,220 327,155 C316,105 330,72 365,50 Z"/>
+  <polygon class="gb" points="370,70 480,55 515,125 435,150"/><polygon class="gb" points="435,150 515,125 560,205 455,225"/><polygon class="gb" points="370,70 435,150 350,220 330,130"/>
+  <g class="d"><circle cx="390" cy="92" r="4"/><circle cx="430" cy="86" r="4"/><circle cx="470" cy="78" r="4"/><circle cx="410" cy="120" r="4"/><circle cx="450" cy="114" r="4"/><circle cx="490" cy="108" r="4"/><circle cx="355" cy="145" r="4"/><circle cx="382" cy="170" r="4"/><circle cx="410" cy="195" r="4"/><circle cx="478" cy="152" r="4"/><circle cx="510" cy="180" r="4"/><circle cx="540" cy="210" r="4"/></g>
+  <text class="l" x="390" y="285">(b) Polycrystalline</text><text class="s" x="365" y="305">ordered grains + grain boundaries</text>
+  <path class="b" d="M725,55 C790,25 895,48 920,110 C950,185 885,250 800,243 C720,236 682,180 695,115 C700,88 705,68 725,55 Z"/>
+  <g stroke="#222" stroke-width="2"><line x1="725" y1="95" x2="890" y2="95"/><line x1="715" y1="125" x2="900" y2="125"/><line x1="705" y1="155" x2="910" y2="155"/><line x1="720" y1="185" x2="890" y2="185"/><line x1="740" y1="70" x2="865" y2="215"/><line x1="780" y1="62" x2="900" y2="200"/></g>
+  <g class="d"><circle cx="740" cy="95" r="4"/><circle cx="780" cy="95" r="4"/><circle cx="820" cy="95" r="4"/><circle cx="860" cy="95" r="4"/><circle cx="730" cy="125" r="4"/><circle cx="770" cy="125" r="4"/><circle cx="810" cy="125" r="4"/><circle cx="850" cy="125" r="4"/><circle cx="890" cy="125" r="4"/><circle cx="720" cy="155" r="4"/><circle cx="760" cy="155" r="4"/><circle cx="800" cy="155" r="4"/><circle cx="840" cy="155" r="4"/><circle cx="880" cy="155" r="4"/><circle cx="740" cy="185" r="4"/><circle cx="780" cy="185" r="4"/><circle cx="820" cy="185" r="4"/><circle cx="860" cy="185" r="4"/></g>
+  <text class="l" x="745" y="285">(c) Single crystal</text><text class="s" x="735" y="305">long-range periodicity</text>
+</svg>
