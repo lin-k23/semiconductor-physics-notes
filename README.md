@@ -9,10 +9,11 @@
 01-晶体结构与能带/      Chapter 1：晶体结构、晶格、晶面晶向、材料生长
 02-量子力学初步/        Chapter 2-3：量子力学、能带理论、态密度、Fermi-Dirac 统计
 03-半导体平衡态/        Chapter 4：热平衡载流子、掺杂、费米能级、电中性
-04-输运现象/            漂移、扩散、迁移率、连续性方程
-05-PN结/                平衡 PN 结、偏置、耗尽区、电容
-06-MOS结构/             MOS 电容、阈值电压、表面势
-07-半导体器件/          二极管、BJT、MOSFET、光电器件
+04-输运现象/            Chapter 5：漂移、扩散、迁移率、Hall effect
+05-非平衡载流子/        Chapter 6：excess carriers、ambipolar transport、SRH、surface recombination
+06-PN结/                平衡 PN 结、偏置、耗尽区、电容
+07-MOS结构/             MOS 电容、阈值电压、表面势
+08-半导体器件/          二极管、BJT、MOSFET、光电器件
 99-模板/                概念卡片、公式整理、例题复盘模板
 ```
 
