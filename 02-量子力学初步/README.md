@@ -4,7 +4,7 @@
 
 ## 本章目标
 
-理解 semiconductor physics 中会用到的量子力学工具，并把它们推广到 crystal lattice：从 `Schrodinger's wave equation`、`wave function`、`tunneling`，进一步走向 `allowed energy bands`、`E-k diagram`、`effective mass`、`density of states` 与 `Fermi-Dirac distribution`。
+理解半导体物理（semiconductor physics）中会用到的量子力学工具，并把它们推广到晶体晶格（crystal lattice）：从薛定谔波动方程（Schrodinger's wave equation）、波函数（wave function）、隧穿（tunneling），进一步走向允许能带（allowed energy bands）、$E-k$ 图（E-k diagram）、有效质量（effective mass）、态密度（density of states）与费米-狄拉克分布（Fermi-Dirac distribution）。
 
 ## Chapter 2：Introduction to Quantum Mechanics
 
@@ -29,13 +29,13 @@
 
 ## 图片目录
 
-图片统一放在 `_assets/pdf-screenshots/`。Chapter 2 使用 JPG；Chapter 3 使用更清晰的高分辨率裁剪 PNG。
+图片统一放在 `_assets/pdf-screenshots/`。Chapter 2 的旧 JPG 已升级为更清晰的高对比 PNG；Chapter 3 继续使用裁剪 PNG。
 
 ### Chapter 2
 
-- `fig2-1-photoelectric-effect.jpg`
-- `fig2-5-boundary-conditions.jpg`
-- `fig2-10-wave-functions-barrier.jpg`
+- `fig2-1-photoelectric-effect.png`
+- `fig2-5-boundary-conditions.png`
+- `fig2-10-wave-functions-barrier.png`
 
 ### Chapter 3
 
@@ -46,6 +46,7 @@
 
 ## 后续连接
 
-- [[01-晶体结构与能带/晶体结构]]：晶体周期结构提供 periodic potential 的物理背景。
-- [[01-晶体结构与能带/金刚石结构]]：Si 的 diamond structure 是能带形成的材料背景。
-- [[03-输运现象/漂移电流]]：electron / hole 与 effective mass 最终进入输运模型。
+- [[01-晶体结构与能带/晶体结构]]：晶体周期结构提供周期势场（periodic potential）的物理背景。
+- [[01-晶体结构与能带/金刚石结构]]：Si 的金刚石结构（diamond structure）是能带形成的材料背景。
+- [[03-半导体平衡态/平衡载流子浓度]]：态密度（density of states）与费米-狄拉克分布（Fermi-Dirac distribution）用于计算平衡载流子浓度。
+- [[04-输运现象/载流子输运]]：电子（electron）、空穴（hole）和有效质量（effective mass）最终进入输运模型。
