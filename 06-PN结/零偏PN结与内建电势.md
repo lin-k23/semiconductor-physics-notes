@@ -6,6 +6,8 @@
 
 零偏 PN 结处于热平衡（thermal equilibrium），整个结构的费米能级（Fermi level）必须恒定；导带和价带的弯曲对应内建电势（built-in potential barrier）$V_{bi}$。
 
+![Figure 7.3 Equilibrium energy-band diagram](_assets/pdf-screenshots/fig7-3-equilibrium-energy-band.png)
+
 ## 热平衡能带图
 
 零偏（zero applied bias）时，PN 结没有外加激发，满足：

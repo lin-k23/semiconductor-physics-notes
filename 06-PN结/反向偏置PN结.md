@@ -6,6 +6,8 @@
 
 反向偏置（reverse bias）会提高 PN 结的总势垒，使耗尽区变宽、最大电场增大，并为结电容和击穿现象奠定基础。
 
+![Figure 7.7 Reverse-bias energy-band diagram](_assets/pdf-screenshots/fig7-7-reverse-bias-energy-band.png)
+
 ## 反向偏置定义
 
 对 PN 结施加反向偏置时，n 区相对于 p 区接正电压。记反向偏置电压大小为 $V_R$。
@@ -19,6 +21,8 @@ $$
 在能带图上，p 区和 n 区的费米能级不再相同，二者相差 $eV_R$。
 
 ## 耗尽宽度随反偏增大
+
+![Figure 7.8 Reverse-biased PN junction field](_assets/pdf-screenshots/fig7-8-reverse-bias-field.png)
 
 把零偏公式中的 $V_{bi}$ 替换为 $V_{bi}+V_R$：
 

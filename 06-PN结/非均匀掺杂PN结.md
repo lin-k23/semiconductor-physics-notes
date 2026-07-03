@@ -6,6 +6,8 @@
 
 实际 PN 结常不是理想均匀掺杂；线性渐变结（linearly graded junction）和超突变结（hyperabrupt junction）会改变电场、电势和结电容的电压依赖，可用于特定器件设计。
 
+![Figure 7.16 and 7.17 Linearly graded junction](_assets/pdf-screenshots/fig7-16-17-linearly-graded-junction.png)
+
 ## 线性渐变结
 
 若净掺杂浓度在冶金结附近近似线性变化：
@@ -40,6 +42,8 @@ $$
 
 ## 线性渐变结电容
 
+![Figure 7.18 Linearly graded junction capacitance](_assets/pdf-screenshots/fig7-18-linearly-graded-capacitance.png)
+
 单位面积结电容：
 
 $$
@@ -55,6 +59,8 @@ $$
 相比均匀掺杂突变结的 $-1/2$ 次幂关系，线性渐变结的电容对反向偏置电压依赖更弱。
 
 ## 超突变结
+
+![Figure 7.19 Hyperabrupt doping profile](_assets/pdf-screenshots/fig7-19-hyperabrupt-doping-profile.png)
 
 超突变结（hyperabrupt junction）是一类非均匀掺杂结，其掺杂浓度从冶金结向外迅速降低。常用近似：
 
