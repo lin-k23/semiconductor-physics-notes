@@ -26,7 +26,25 @@
 
 ## 图片原则
 
-本章截图只使用 PDF 原图裁剪，不做高对比、重绘、重新排版或格式增强。截图文件应放在 `_assets/pdf-screenshots/`。
+本章截图只使用 PDF 原图裁剪，不做高对比、重绘、重新排版或格式增强。截图文件放在 `_assets/pdf-screenshots/`。
+
+## 本章图片
+
+- `fig7-1-2-basic-pn-junction-and-space-charge.png`
+- `fig7-3-equilibrium-energy-band.png`
+- `fig7-4-space-charge-density.png`
+- `fig7-5-electric-field.png`
+- `fig7-6-electric-potential.png`
+- `fig7-7-reverse-bias-energy-band.png`
+- `fig7-8-reverse-bias-field.png`
+- `fig7-9-junction-capacitance-charge.png`
+- `fig7-10-11-one-sided-cv.png`
+- `fig7-12-13-breakdown-mechanisms.png`
+- `fig7-14-critical-field.png`
+- `fig7-15-breakdown-voltage.png`
+- `fig7-16-17-linearly-graded-junction.png`
+- `fig7-18-linearly-graded-capacitance.png`
+- `fig7-19-hyperabrupt-doping-profile.png`
 
 ## 与前后章节的连接
 

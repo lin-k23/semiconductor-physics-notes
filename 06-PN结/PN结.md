@@ -24,6 +24,16 @@ p 区 / n 区接触
   -> 非均匀掺杂结与变容二极管
 ```
 
+## 视觉索引
+
+![Figure 7.1 and 7.2 Basic PN junction and space charge region](_assets/pdf-screenshots/fig7-1-2-basic-pn-junction-and-space-charge.png)
+
+![Figure 7.3 Equilibrium energy-band diagram](_assets/pdf-screenshots/fig7-3-equilibrium-energy-band.png)
+
+![Figure 7.12 and 7.13 Breakdown mechanisms](_assets/pdf-screenshots/fig7-12-13-breakdown-mechanisms.png)
+
+![Figure 7.16 and 7.17 Linearly graded junction](_assets/pdf-screenshots/fig7-16-17-linearly-graded-junction.png)
+
 ## 本章核心图像
 
 1. p 区和 n 区接触后，多数电子从 n 区向 p 区扩散，多数空穴从 p 区向 n 区扩散。

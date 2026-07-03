@@ -6,6 +6,8 @@
 
 PN 结的反向偏置不能无限增大；当反向电场足够强时，会出现齐纳击穿（Zener breakdown）或雪崩击穿（avalanche breakdown），导致反向电流急剧增加。
 
+![Figure 7.12 and 7.13 Breakdown mechanisms](_assets/pdf-screenshots/fig7-12-13-breakdown-mechanisms.png)
+
 ## 两种击穿机制
 
 ### 齐纳击穿（Zener breakdown）
@@ -47,6 +49,8 @@ $$
 
 ## 单边结击穿电压近似
 
+![Figure 7.14 Critical electric field at breakdown](_assets/pdf-screenshots/fig7-14-critical-field.png)
+
 对单边突变结，若忽略 $V_{bi}$，令击穿时最大电场达到临界电场（critical electric field）$E_{crit}$，则：
 
 $$
@@ -55,7 +59,9 @@ $$
 
 其中 $N_B$ 是低掺杂侧浓度。
 
-## 设计结论
+## 击穿电压与掺杂
+
+![Figure 7.15 Breakdown voltage versus impurity concentration](_assets/pdf-screenshots/fig7-15-breakdown-voltage.png)
 
 击穿电压随低掺杂侧浓度降低而增大：
 

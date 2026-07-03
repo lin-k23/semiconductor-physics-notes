@@ -6,6 +6,8 @@
 
 PN 结的核心结构是冶金结（metallurgical junction）附近形成的空间电荷区 / 耗尽区（space charge region / depletion region）；该区域几乎没有可移动电子和空穴，只剩固定离化杂质电荷。
 
+![Figure 7.1 and 7.2 Basic PN junction and space charge region](_assets/pdf-screenshots/fig7-1-2-basic-pn-junction-and-space-charge.png)
+
 ## 基本结构
 
 PN 结并不是把两块独立半导体简单贴在一起，而是在同一单晶材料中形成相邻的 p 型区和 n 型区：
