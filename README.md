@@ -13,7 +13,7 @@
 05-非平衡载流子/        Chapter 6：过剩载流子、双极输运、SRH 复合、表面复合
 06-PN结/                Chapter 7-8：PN 结静电学、PN 结二极管、瞬态和隧道二极管
 07-MOS结构/             Chapter 9-11：金属-半导体接触、异质结、MOS 电容、MOSFET
-08-半导体器件/          BJT、光电器件、微波与功率器件
+08-半导体器件/          Chapter 12-15：BJT、JFET/MESFET、光电器件、微波与功率器件
 99-模板/                概念卡片、公式整理、例题复盘模板
 ```
 
@@ -21,7 +21,7 @@
 
 - 笔记主题和解释以中文为主。
 - 关键名词采用「通用中文翻译（English keyword）」的形式，例如：过剩载流子（excess carriers）、双极输运（ambipolar transport）。
-- 公式符号、材料名和器件缩写按教材保留，例如 $E_F$、Si、GaAs、PN junction、MOSFET。
+- 公式符号、材料名和常用器件缩写按教材保留，例如 $E_F$、Si、GaAs、PN 结（pn junction）、MOSFET、BJT、JFET、MESFET。
 
 ## Obsidian 约定
 
