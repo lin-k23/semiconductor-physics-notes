@@ -85,7 +85,7 @@ $$
 $$
 
 > [!figure] Fig-14-34 占位
-> cleaved mirror 形成 Fabry-Perot 腔的 PN 结激光二极管。
+> 解理镜面（cleaved mirror）形成 Fabry-Perot 腔的 PN 结激光二极管。
 
 > [!figure] Fig-14-35 占位
 > 腔模、自发发射谱和实际激射模式。
