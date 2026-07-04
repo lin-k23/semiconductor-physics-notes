@@ -8,10 +8,6 @@
 
 > 说明：Chapter 9 本身不是 MOS 电容章节，但它提供金属接触、界面势垒、欧姆接触和异质结势阱等基础，因此按当前整理方案统一放入 `07-MOS结构/`。
 
-## 整理规则
-
-- [[图片占位规则]]：后续 notes-only 优先；必要示意图保留 `Fig-x-y` 占位。
-
 ## Chapter 9：Metal–Semiconductor and Semiconductor Heterojunctions
 
 主入口：[[金属半导体结与异质结]]

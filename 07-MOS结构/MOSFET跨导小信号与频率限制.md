@@ -48,7 +48,8 @@ $$
 
 物理图像：源-衬底反偏增大耗尽层电荷，栅极需要更高电压才能达到同样反型条件。
 
-> [!figure] Fig-10-51 占位
+> [!figure] Fig-10-51
+> ![Fig-10-51](_assets/pdf-screenshots/Fig-10-51.jpg)
 > 衬底偏置对阈值电压和转移特性的影响。
 
 ## 小信号等效电路
@@ -62,7 +63,8 @@ MOSFET 小信号模型包含：
 - 源 / 漏串联电阻 $r_s$、$r_d$。
 - 漏-衬底结电容 $C_{ds}$。
 
-> [!figure] Fig-10-52 占位
+> [!figure] Fig-10-52
+> ![Fig-10-52](_assets/pdf-screenshots/Fig-10-52.jpg)
 > MOSFET 内在电阻、电容和受控源的小信号模型。
 
 源串联电阻会降低有效跨导：

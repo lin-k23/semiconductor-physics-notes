@@ -18,7 +18,8 @@ V_DS 增大
   -> 漏电流和衬底电流增大
 ```
 
-> [!figure] Fig-11-21 占位
+> [!figure] Fig-11-21
+> ![Fig-11-21](_assets/pdf-screenshots/Fig-11-21.jpg)
 > MOSFET 中漏端空间电荷区与击穿相关电场示意。
 
 ## 寄生双极晶体管效应
@@ -39,7 +40,8 @@ V_DS 增大
 
 穿通（punch-through）指源端和漏端耗尽区相连，栅极失去对源端势垒的有效控制。短沟道中，实际近穿通常在完全耗尽区相连之前就显著出现，表现为 DIBL 和关断漏电增大。
 
-> [!figure] Fig-11-26 占位
+> [!figure] Fig-11-26
+> ![Fig-11-26](_assets/pdf-screenshots/Fig-11-26.jpg)
 > 源漏耗尽区接近相连时的近穿通示意。
 
 ## LDD 结构
@@ -56,10 +58,12 @@ LDD 结构
   -> 雪崩、热电子、氧化层注入风险降低
 ```
 
-> [!figure] Fig-11-27 占位
+> [!figure] Fig-11-27
+> ![Fig-11-27](_assets/pdf-screenshots/Fig-11-27.jpg)
 > LDD 结构与传统漏结构的掺杂剖面对比。
 
-> [!figure] Fig-11-28 占位
+> [!figure] Fig-11-28
+> ![Fig-11-28](_assets/pdf-screenshots/Fig-11-28.jpg)
 > LDD 和传统结构在氧化层界面处的电场分布对比。
 
 ## 代价

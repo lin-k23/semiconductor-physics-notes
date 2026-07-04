@@ -16,7 +16,8 @@ $$
 
 只要 $V_{GS}-V_x>V_T$，该处存在反型沟道。
 
-> [!figure] Fig-10-46 占位
+> [!figure] Fig-10-46
+> ![Fig-10-46](_assets/pdf-screenshots/Fig-10-46.jpg)
 > 沟道位置 $x$ 处的电势和 MOS 能带关系。
 
 ## 线性区电流
@@ -67,7 +68,8 @@ $$
 
 理想模型中，当 $V_{DS}\ge V_{DS}(sat)$，$I_D$ 与 $V_{DS}$ 无关。
 
-> [!figure] Fig-10-47 占位
+> [!figure] Fig-10-47
+> ![Fig-10-47](_assets/pdf-screenshots/Fig-10-47.jpg)
 > 理想 $I_D$-$V_{DS}$ 曲线族。
 
 ## 小 $V_{DS}$ 下的沟道电阻

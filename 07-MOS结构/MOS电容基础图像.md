@@ -24,7 +24,8 @@ $$
 
 氧化层越薄，$C'_{ox}$ 越大，同样栅压能控制更多半导体表面电荷。
 
-> [!figure] Fig-10-1 占位
+> [!figure] Fig-10-1
+> ![Fig-10-1](_assets/pdf-screenshots/Fig-10-1.jpg)
 > MOS 电容结构与氧化层厚度 $t_{ox}$。
 
 ## p 型衬底：三种表面状态
@@ -61,10 +62,12 @@ $$
   -> p 型衬底表面反型为 n 型
 ```
 
-> [!figure] Fig-10-4 占位
+> [!figure] Fig-10-4
+> ![Fig-10-4](_assets/pdf-screenshots/Fig-10-4.jpg)
 > p 型衬底 MOS 电容在零偏、负栅压、正栅压下的能带图。
 
-> [!figure] Fig-10-5 占位
+> [!figure] Fig-10-5
+> ![Fig-10-5](_assets/pdf-screenshots/Fig-10-5.jpg)
 > 大正栅压下 p 型衬底表面形成电子反型层。
 
 ## n 型衬底的对称图像
@@ -75,7 +78,8 @@ n 型衬底中极性反过来：
 - 适度负栅压：电子被排斥，形成正空间电荷耗尽区。
 - 大负栅压：表面形成空穴反型层。
 
-> [!figure] Fig-10-7 占位
+> [!figure] Fig-10-7
+> ![Fig-10-7](_assets/pdf-screenshots/Fig-10-7.jpg)
 > n 型衬底 MOS 电容的积累、耗尽、反型能带图。
 
 ## 物理图像总结
