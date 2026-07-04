@@ -21,7 +21,8 @@ N_A, N_D -> N_A/k, N_D/k
 
 这样可以避免因尺寸缩小而电场上升导致击穿、热载流子和氧化层可靠性问题。
 
-> [!figure] Fig-11-12 占位
+> [!figure] Fig-11-12
+> ![Fig-11-12](_assets/pdf-screenshots/Fig-11-12.jpg)
 > 原始 NMOS 与常电场缩放后 NMOS 的几何参数对比。
 
 ## 常电场缩放结果

@@ -15,7 +15,8 @@ MOSFET 可按沟道类型和工作模式分类：
 - n 沟道耗尽型 MOSFET（n-channel depletion-mode MOSFET）：零栅压已有 n 型沟道，负栅压可耗尽沟道。
 - p 沟道耗尽型 MOSFET（p-channel depletion-mode MOSFET）：零栅压已有 p 型沟道，正栅压可耗尽沟道。
 
-> [!figure] Fig-10-36 占位
+> [!figure] Fig-10-36
+> ![Fig-10-36](_assets/pdf-screenshots/Fig-10-36.jpg)
 > 增强型和耗尽型 MOSFET 结构对比。
 
 ## n 沟道增强型的基本工作
@@ -34,7 +35,8 @@ V_GS > V_T
   -> 电子从源到漏漂移，常规定义的 I_D 从漏流入
 ```
 
-> [!figure] Fig-10-43 占位
+> [!figure] Fig-10-43
+> ![Fig-10-43](_assets/pdf-screenshots/Fig-10-43.jpg)
 > n 沟道增强型 MOSFET 的反型沟道形成。
 
 ## 线性区与饱和区
@@ -53,7 +55,8 @@ $$
 V_{DS}(sat)=V_{GS}-V_T
 $$
 
-> [!figure] Fig-10-45 占位
+> [!figure] Fig-10-45
+> ![Fig-10-45](_assets/pdf-screenshots/Fig-10-45.jpg)
 > 漏源电压增大时，沟道电荷在漏端逐渐减少并进入夹断。
 
 ## p 沟道器件的符号处理

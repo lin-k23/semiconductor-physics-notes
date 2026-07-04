@@ -26,16 +26,20 @@ MOS 电容结构
 
 ## 必要图片占位
 
-> [!figure] Fig-10-1 占位
+> [!figure] Fig-10-1
+> ![Fig-10-1](_assets/pdf-screenshots/Fig-10-1.jpg)
 > MOS 电容基本结构：金属 / 氧化层 / 半导体。
 
-> [!figure] Fig-10-4 占位
+> [!figure] Fig-10-4
+> ![Fig-10-4](_assets/pdf-screenshots/Fig-10-4.jpg)
 > p 型衬底 MOS 电容在零偏、负栅压和正栅压下的能带图。
 
-> [!figure] Fig-10-43 占位
+> [!figure] Fig-10-43
+> ![Fig-10-43](_assets/pdf-screenshots/Fig-10-43.jpg)
 > n 沟道增强型 MOSFET 形成反型沟道的结构图。
 
-> [!figure] Fig-10-47 占位
+> [!figure] Fig-10-47
+> ![Fig-10-47](_assets/pdf-screenshots/Fig-10-47.jpg)
 > 理想 MOSFET 的 $I_D$-$V_{DS}$ 曲线族。
 
 ## 本章核心问题

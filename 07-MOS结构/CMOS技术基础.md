@@ -22,7 +22,8 @@ CMOS 的基本单元是反相器：
 
 因为任一稳定逻辑状态下，电源到地之间理想上没有直流导通通路，所以静态功耗很低。
 
-> [!figure] Fig-10-58 占位
+> [!figure] Fig-10-58
+> ![Fig-10-58](_assets/pdf-screenshots/Fig-10-58.jpg)
 > CMOS 反相器的 nMOS / pMOS 结构和电路符号。
 
 ## 为什么需要互补沟道
