@@ -24,10 +24,12 @@ $$
 
 其中 $x_B$ 是中性基区宽度，$n_{B0}$ 是基区热平衡少数电子浓度。
 
-> [!figure] Fig-12-13 占位
+> [!figure] Fig-12-13
+> ![Fig-12-13](_assets/pdf-screenshots/Fig-12-13.jpg)
 > npn BJT 中性发射区、基区、集电区坐标定义。
 
-> [!figure] Fig-12-14 占位
+> [!figure] Fig-12-14
+> ![Fig-12-14](_assets/pdf-screenshots/Fig-12-14.jpg)
 > 正向有源区中三段少数载流子分布。
 
 ## 基区少数载流子分布
@@ -52,7 +54,8 @@ $$
 
 复习图像：窄基区让电子大概率穿过基区，而不是在基区内复合。
 
-> [!figure] Fig-12-15 占位
+> [!figure] Fig-12-15
+> ![Fig-12-15](_assets/pdf-screenshots/Fig-12-15.jpg)
 > 双曲正弦函数和线性近似。
 
 ## 集电极电流
@@ -97,10 +100,12 @@ $$
 - 饱和（saturation）：两个结都正偏，基区两端都有过剩少数载流子。
 - 反向有源（inverse active）：由集电极向基区注入电子，但由于结构非对称，性能较差。
 
-> [!figure] Fig-12-16 占位
+> [!figure] Fig-12-16
+> ![Fig-12-16](_assets/pdf-screenshots/Fig-12-16.jpg)
 > 截止和饱和模式的少数载流子分布。
 
-> [!figure] Fig-12-17 占位
+> [!figure] Fig-12-17
+> ![Fig-12-17](_assets/pdf-screenshots/Fig-12-17.jpg)
 > 反向有源模式的少数载流子分布。
 
 ## 易错点

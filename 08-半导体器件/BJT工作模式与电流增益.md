@@ -28,7 +28,8 @@ $$
 i_C=I_S\exp\left(\frac{v_{BE}}{V_T}\right)
 $$
 
-> [!figure] Fig-12-4 占位
+> [!figure] Fig-12-4
+> ![Fig-12-4](_assets/pdf-screenshots/Fig-12-4.jpg)
 > npn BJT 正向有源区的偏置、少数载流子分布和能带图。
 
 ## 四种工作模式
@@ -40,7 +41,8 @@ $$
 | 饱和（saturation） | 正偏 | 正偏 | 两个结都注入，$i_C$ 不再由 $v_{BE}$ 单独控制 |
 | 反向有源（inverse active） | 反偏 | 正偏 | 发射极和集电极角色反过来，但性能较差 |
 
-> [!figure] Fig-12-10 占位
+> [!figure] Fig-12-10
+> ![Fig-12-10](_assets/pdf-screenshots/Fig-12-10.jpg)
 > 四种工作模式对应的结电压条件。
 
 ## 电流增益定义
@@ -97,7 +99,8 @@ $$
   -> 减少电子在基区复合
 ```
 
-> [!figure] Fig-12-6 占位
+> [!figure] Fig-12-6
+> ![Fig-12-6](_assets/pdf-screenshots/Fig-12-6.jpg)
 > 正向有源区的电流分量：$i_E$、$i_C$、$i_B$ 以及基区复合。
 
 ## 共发射极放大
@@ -110,10 +113,12 @@ $$
 
 输入端小的 $v_{BE}$ 或 $i_B$ 变化，会引起较大的集电极电流变化，再经负载电阻 $R_C$ 转换成输出电压变化。
 
-> [!figure] Fig-12-11 占位
+> [!figure] Fig-12-11
+> ![Fig-12-11](_assets/pdf-screenshots/Fig-12-11.jpg)
 > 共发射极放大电路。
 
-> [!figure] Fig-12-12 占位
+> [!figure] Fig-12-12
+> ![Fig-12-12](_assets/pdf-screenshots/Fig-12-12.jpg)
 > 输入信号、基极电流、集电极电流和输出电压的时间变化。
 
 ## 易错点

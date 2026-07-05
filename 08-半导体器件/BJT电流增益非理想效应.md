@@ -70,10 +70,12 @@ V_CB 增大
 
 这称为 Early 效应（Early effect）或基区宽度调制（base width modulation）。输出特性不再水平，而是外推交于 Early 电压 $V_A$。
 
-> [!figure] Fig-12-27 占位
+> [!figure] Fig-12-27
+> ![Fig-12-27](_assets/pdf-screenshots/Fig-12-27.jpg)
 > B-C 反偏改变中性基区宽度的 Early 效应示意。
 
-> [!figure] Fig-12-28 占位
+> [!figure] Fig-12-28
+> ![Fig-12-28](_assets/pdf-screenshots/Fig-12-28.jpg)
 > 共发射极输出曲线外推得到 Early 电压。
 
 ## 高注入效应
@@ -100,7 +102,8 @@ BJT 中常见击穿包括：
 - 共发射极击穿中，雪崩产生的空穴可增加基极电流并被晶体管作用放大。
 - 穿通（punch-through）：B-C 耗尽区穿过基区接近 B-E 结，器件失去正常控制。
 
-> [!figure] Fig-12-34 占位
+> [!figure] Fig-12-34
+> ![Fig-12-34](_assets/pdf-screenshots/Fig-12-34.jpg)
 > 共基极和共发射极击穿特性对比。
 
 ## 易错点

@@ -56,7 +56,8 @@ hybrid-$\pi$ 模型常包含：
 - $C_\pi$：B-E 结扩散电容和结电容。
 - $C_\mu$：B-C 结电容，常引入米勒效应（Miller effect）。
 
-> [!figure] Fig-12-37 占位
+> [!figure] Fig-12-37
+> ![Fig-12-37](_assets/pdf-screenshots/Fig-12-37.jpg)
 > BJT 小信号 hybrid-$\pi$ 等效电路。
 
 ## 频率限制
@@ -74,7 +75,8 @@ $$
 
 其中 $\tau_F$ 可看作总延迟时间，包括发射极充电、基区渡越、集电结耗尽区渡越和集电结电容充电等贡献。
 
-> [!figure] Fig-12-42 占位
+> [!figure] Fig-12-42
+> ![Fig-12-42](_assets/pdf-screenshots/Fig-12-42.jpg)
 > BJT 频率响应和截止频率示意。
 
 ## 开关瞬态
@@ -87,7 +89,8 @@ BJT 用作开关时：
 
 若进入饱和区，B-E 和 B-C 两个结都正偏，基区和集电区附近会存储大量少数载流子。关断时必须先移除这些存储电荷，因此出现存储时间（storage time）。
 
-> [!figure] Fig-12-44 占位
+> [!figure] Fig-12-44
+> ![Fig-12-44](_assets/pdf-screenshots/Fig-12-44.jpg)
 > BJT 开关过程中输入和输出波形。
 
 ## 如何提高开关速度

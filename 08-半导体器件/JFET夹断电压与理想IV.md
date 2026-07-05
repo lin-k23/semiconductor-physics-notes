@@ -28,7 +28,8 @@ $$
 
 对 n 沟道耗尽型 JFET，通常 $V_p<0$。
 
-> [!figure] Fig-13-10 占位
+> [!figure] Fig-13-10
+> ![Fig-13-10](_assets/pdf-screenshots/Fig-13-10.jpg)
 > 简化一侧 n 沟道和 p 沟道 pn JFET 几何参数。
 
 ## 漏端夹断与饱和电压
@@ -41,7 +42,8 @@ $$
 
 对 n 沟道耗尽型器件，$V_p$ 为负，因此 $V_{GS}$ 越负，达到饱和所需的 $V_{DS}$ 越小。
 
-> [!figure] Fig-13-11 占位
+> [!figure] Fig-13-11
+> ![Fig-13-11](_assets/pdf-screenshots/Fig-13-11.jpg)
 > 沟道中源端和漏端耗尽宽度不同，漏端先夹断。
 
 ## 理想电流方程的结构
@@ -71,10 +73,12 @@ V_GS = V_p
   -> 沟道夹断，I_D 近似为 0
 ```
 
-> [!figure] Fig-13-22 占位
+> [!figure] Fig-13-22
+> ![Fig-13-22](_assets/pdf-screenshots/Fig-13-22.jpg)
 > JFET 理想输出特性族。
 
-> [!figure] Fig-13-23 占位
+> [!figure] Fig-13-23
+> ![Fig-13-23](_assets/pdf-screenshots/Fig-13-23.jpg)
 > JFET 转移特性 $I_D$-$V_{GS}$。
 
 ## 跨导

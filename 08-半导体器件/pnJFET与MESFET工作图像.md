@@ -19,7 +19,8 @@ p+ 栅区 / n 型沟道 / p+ 栅区
 
 当 $V_{GS}=0$ 且 $V_{DS}$ 很小时，沟道像普通 n 型电阻，$I_D$ 与 $V_{DS}$ 近似线性。
 
-> [!figure] Fig-13-2 占位
+> [!figure] Fig-13-2
+> ![Fig-13-2](_assets/pdf-screenshots/Fig-13-2.jpg)
 > 对称 n 沟道 pn JFET 截面图。
 
 ## 栅压控制沟道
@@ -37,7 +38,8 @@ V_GS 更负
 
 当耗尽层完全填满沟道时，称为夹断（pinchoff），器件近似关断。
 
-> [!figure] Fig-13-3 占位
+> [!figure] Fig-13-3
+> ![Fig-13-3](_assets/pdf-screenshots/Fig-13-3.jpg)
 > 不同栅压下的栅-沟道耗尽区和小 $V_{DS}$ I-V 曲线。
 
 ## 漏压导致的漏端夹断
@@ -54,10 +56,12 @@ V_DS 增大
 
 漏端夹断后，电流不会变成零。载流子先通过剩余沟道到达夹断点，再被夹断区电场扫入漏极。理想情况下继续增大 $V_{DS}$，$I_D$ 近似饱和。
 
-> [!figure] Fig-13-4 占位
+> [!figure] Fig-13-4
+> ![Fig-13-4](_assets/pdf-screenshots/Fig-13-4.jpg)
 > $V_{GS}=0$、不同 $V_{DS}$ 下的沟道形状和 I-V 特性。
 
-> [!figure] Fig-13-5 占位
+> [!figure] Fig-13-5
+> ![Fig-13-5](_assets/pdf-screenshots/Fig-13-5.jpg)
 > 漏端夹断区放大图：电子进入空间电荷区后被电场扫向漏端。
 
 ## MESFET 工作图像
@@ -69,12 +73,14 @@ MESFET（metal-semiconductor field-effect transistor）把 pn JFET 的 PN 栅换
 - 源漏为欧姆接触。
 - 栅极为肖特基整流接触。
 
-> [!figure] Fig-13-6 占位
+> [!figure] Fig-13-6
+> ![Fig-13-6](_assets/pdf-screenshots/Fig-13-6.jpg)
 > n 沟道 GaAs MESFET 截面图。
 
 肖特基栅反偏时，金属下方形成耗尽区并调制沟道厚度。若沟道在 $V_{GS}=0$ 已经导通，就是耗尽型 MESFET；若 $V_{GS}=0$ 沟道已经被耗尽，需要正栅压打开沟道，就是增强型 MESFET。
 
-> [!figure] Fig-13-8 占位
+> [!figure] Fig-13-8
+> ![Fig-13-8](_assets/pdf-screenshots/Fig-13-8.jpg)
 > 增强型 MESFET 在 $V_{GS}=0$、$V_{GS}=V_T$ 和 $V_{GS}>V_T$ 时的沟道耗尽状态。
 
 ## pn JFET 与 MESFET 对比
