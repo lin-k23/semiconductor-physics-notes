@@ -16,7 +16,8 @@ JFET 小信号模型常包含：
 - 栅漏电容 $C_{gd}$。
 - 源 / 漏串联电阻。
 
-> [!figure] Fig-13-28 占位
+> [!figure] Fig-13-28
+> ![Fig-13-28](_assets/pdf-screenshots/Fig-13-28.jpg)
 > JFET 小信号等效电路。
 
 跨导定义：
@@ -43,7 +44,8 @@ $$
 
 短沟道或高场 MESFET 中，载流子速度接近饱和值，漏电流不再按低场迁移率模型增加。GaAs 电子迁移率高，因此 MESFET 高频性能优于普通 Si pn JFET。
 
-> [!figure] Fig-13-25 占位
+> [!figure] Fig-13-25
+> ![Fig-13-25](_assets/pdf-screenshots/Fig-13-25.jpg)
 > JFET 非理想输出特性中的沟道长度调制。
 
 ## 频率响应
@@ -84,7 +86,8 @@ $$
   -> 散射减少，迁移率提高
 ```
 
-> [!figure] Fig-13-33 占位
+> [!figure] Fig-13-29
+> ![Fig-13-29](_assets/pdf-screenshots/Fig-13-29.jpg)
 > HEMT 异质结、二维电子气和栅控沟道示意。
 
 ## HEMT 与 MESFET 对比

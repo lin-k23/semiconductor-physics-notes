@@ -23,19 +23,24 @@
 
 ## 必要图片占位
 
-> [!figure] Fig-13-2 占位
+> [!figure] Fig-13-2
+> ![Fig-13-2](_assets/pdf-screenshots/Fig-13-2.jpg)
 > 对称 n 沟道 pn JFET 结构。
 
-> [!figure] Fig-13-3 占位
+> [!figure] Fig-13-3
+> ![Fig-13-3](_assets/pdf-screenshots/Fig-13-3.jpg)
 > 不同反向栅压下的沟道耗尽区和小 $V_{DS}$ I-V 特性。
 
-> [!figure] Fig-13-6 占位
+> [!figure] Fig-13-6
+> ![Fig-13-6](_assets/pdf-screenshots/Fig-13-6.jpg)
 > n 沟道 MESFET 结构。
 
-> [!figure] Fig-13-22 占位
+> [!figure] Fig-13-22
+> ![Fig-13-22](_assets/pdf-screenshots/Fig-13-22.jpg)
 > JFET 理想输出特性族。
 
-> [!figure] Fig-13-33 占位
+> [!figure] Fig-13-29
+> ![Fig-13-29](_assets/pdf-screenshots/Fig-13-29.jpg)
 > HEMT 的异质结和二维电子气沟道结构。
 
 ## 本章核心问题
